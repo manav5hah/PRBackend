@@ -1,2 +1,5 @@
 # PRBackend
-Implementation of backend tasks using Fast API
+Developed a ASGI-compliant RESTful API with JWT authentication using Python,
+FastAPI and pandas.
+
+
